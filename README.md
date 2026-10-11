@@ -80,3 +80,16 @@ It also demonstrates practical skills in data aggregation, table joins, date-bas
 Author
 
 Data Analysis Portfolio Project
+
+-Visual Results
+
+Top 10 Product Categories by Revenue
+![Top 10 Product Categories by Revenue](top_10_categories.png)
+Top 10 States by Revenue
+![Top 10 States by Revenue](top_10_states_revenue.png)
+Monthly Sales Trend
+![Monthly Sales Trend](monthly_sales_trend.png)
+Payment Analysis
+![Payment Analysis](payment_analysis.png)
+Average Order Value
+![Average Order Value](average_order_value.png)
